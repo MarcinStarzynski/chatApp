@@ -1,0 +1,16 @@
+{
+  "name": "chatap",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "repository": "none",
+  "author": "MS",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
